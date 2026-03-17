@@ -18,3 +18,7 @@ See screenshots above for flow demonstration.
 
 ## Notes
 This is a front-end UI demo. JavaScript logic is partially implemented and will be expanded to support full interaction flow.
+
+##Demo Credentials:
+Parent ID: 1234
+Child ID: 5678
