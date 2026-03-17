@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KidSafe System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+  <h1>KidSafe Check-In</h1>
+
+  <div class="card">
+    <input id="parentId" placeholder="Parent ID">
+    <input id="childId" placeholder="Child ID">
+    <button onclick="verify()">Verify Access</button>
+<p id="status" style="margin-top:10px;"></p>
+  </div>
+
+  <div id="result"></div>
+
+  <div class="card">
+    <button onclick="enterArcade()">Enter Arcade</button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
