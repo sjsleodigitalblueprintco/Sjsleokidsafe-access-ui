@@ -1,15 +1,20 @@
-KidSafe Access UI
+# KidSafe Verification + Arcade UI Demo
 
-Demo app showing a parent + child verification system with gated access to an arcade and game screen.
+This project demonstrates a simple front-end flow for verifying parent/child access before unlocking a gated arcade interface.
 
-Login:
-Parent ID: 1234
-Child ID: 5678
+## Features
+- Parent + child verification inputs
+- Conditional access to protected UI
+- Arcade-style interface preview
+- Visual UI flow with screenshots
 
-Features:
-- Verification system
-- Arcade access control
-- Game screen
-- JavaScript UI logic
+## Tech
+- HTML
+- CSS
+- JavaScript (in progress)
 
-Built with HTML, CSS, and JavaScript.
+## Preview
+See screenshots above for flow demonstration.
+
+## Notes
+This is a front-end UI demo. JavaScript logic is partially implemented and will be expanded to support full interaction flow.
